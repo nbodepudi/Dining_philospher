@@ -1,0 +1,4016 @@
+Philospher 1 started working 
+Philospher 3 started working 
+# Eating count = 0 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 started working 
+Philospher 5 started working 
+# Eating count = 0 
+# Eating count = 0 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 0 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 started working 
+# Eating count = 0 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 1 th time for 1 seconds. 
+# Eating count = 1 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 1 th time for 2 seconds. 
+# Eating count = 2 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 1 th time for 1 seconds. 
+# Eating count = 3 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 1 th time for 1 seconds. 
+# Eating count = 4 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 1 th time for 2 seconds. 
+# Eating count = 5 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 eating at 2 th time for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 6 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 2 th time for 1 seconds. 
+# Eating count = 7 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 2 th time for 2 seconds. 
+# Eating count = 8 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 2 th time for 2 seconds. 
+# Eating count = 9 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 eating at 2 th time for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+# Eating count = 10 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 3 th time for 1 seconds. 
+# Eating count = 11 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 3 th time for 2 seconds. 
+# Eating count = 12 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 3 th time for 1 seconds. 
+# Eating count = 13 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 3 th time for 1 seconds. 
+# Eating count = 14 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 2 eating at 3 th time for 2 seconds. 
+# Eating count = 15 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 4 th time for 1 seconds. 
+# Eating count = 16 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 4 th time for 2 seconds. 
+# Eating count = 17 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 4 th time for 1 seconds. 
+# Eating count = 18 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 4 th time for 1 seconds. 
+# Eating count = 19 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 5 th time for 1 seconds. 
+# Eating count = 20 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 4 eating at 4 th time for 2 seconds. 
+# Eating count = 21 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 5 th time for 1 seconds. 
+# Eating count = 22 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 5 th time for 2 seconds. 
+# Eating count = 23 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 6 th time for 2 seconds. 
+Philospher 4 eating at 5 th time for 1 seconds. 
+# Eating count = 24 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 25 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 5 th time for 1 seconds. 
+# Eating count = 26 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 6 th time for 2 seconds. 
+# Eating count = 27 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 6 th time for 1 seconds. 
+# Eating count = 28 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 7 th time for 1 seconds. 
+# Eating count = 29 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 6 th time for 1 seconds. 
+# Eating count = 30 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 7 th time for 1 seconds. 
+Philospher 2 eating at 6 th time for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+# Eating count = 31 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 32 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 7 th time for 1 seconds. 
+# Eating count = 33 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 eating at 8 th time for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+# Eating count = 34 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 7 th time for 1 seconds. 
+# Eating count = 35 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 8 th time for 1 seconds. 
+# Eating count = 36 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 7 th time for 1 seconds. 
+# Eating count = 37 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 8 th time for 2 seconds. 
+# Eating count = 38 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 9 th time for 2 seconds. 
+# Eating count = 39 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 8 th time for 1 seconds. 
+# Eating count = 40 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 9 th time for 2 seconds. 
+# Eating count = 41 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 8 th time for 2 seconds. 
+# Eating count = 42 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 9 th time for 2 seconds. 
+# Eating count = 43 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 9 th time for 1 seconds. 
+# Eating count = 44 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 1 eating at 10 th time for 2 seconds. 
+# Eating count = 45 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 10 th time for 1 seconds. 
+# Eating count = 46 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 9 th time for 2 seconds. 
+# Eating count = 47 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 10 th time for 1 seconds. 
+# Eating count = 48 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 10 th time for 1 seconds. 
+# Eating count = 49 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 11 th time for 2 seconds. 
+# Eating count = 50 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 11 th time for 1 seconds. 
+# Eating count = 51 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 10 th time for 1 seconds. 
+# Eating count = 52 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 11 th time for 1 seconds. 
+# Eating count = 53 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 12 th time for 1 seconds. 
+# Eating count = 54 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 3 eating at 11 th time for 2 seconds. 
+# Eating count = 55 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 12 th time for 2 seconds. 
+# Eating count = 56 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 eating at 11 th time for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+# Eating count = 57 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 12 th time for 2 seconds. 
+Philospher 3 eating at 12 th time for 2 seconds. 
+# Eating count = 58 
+Philospher 5 is Thinking for 1 seconds. 
+# Eating count = 59 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 13 th time for 2 seconds. 
+Philospher 4 eating at 13 th time for 2 seconds. 
+# Eating count = 60 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 61 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 12 th time for 1 seconds. 
+# Eating count = 62 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 13 th time for 2 seconds. 
+# Eating count = 63 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 13 th time for 2 seconds. 
+# Eating count = 64 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 14 th time for 2 seconds. 
+# Eating count = 65 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 14 th time for 1 seconds. 
+# Eating count = 66 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 14 th time for 1 seconds. 
+# Eating count = 67 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 13 th time for 2 seconds. 
+# Eating count = 68 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 15 th time for 1 seconds. 
+# Eating count = 69 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 4 eating at 15 th time for 2 seconds. 
+# Eating count = 70 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 15 th time for 1 seconds. 
+# Eating count = 71 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 14 th time for 2 seconds. 
+# Eating count = 72 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 16 th time for 2 seconds. 
+# Eating count = 73 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 16 th time for 1 seconds. 
+# Eating count = 74 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 16 th time for 1 seconds. 
+# Eating count = 75 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 14 th time for 2 seconds. 
+# Eating count = 76 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 17 th time for 2 seconds. 
+# Eating count = 77 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 17 th time for 2 seconds. 
+# Eating count = 78 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 15 th time for 1 seconds. 
+# Eating count = 79 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 15 th time for 1 seconds. 
+# Eating count = 80 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 5 eating at 17 th time for 2 seconds. 
+# Eating count = 81 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 18 th time for 2 seconds. 
+# Eating count = 82 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 18 th time for 2 seconds. 
+# Eating count = 83 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 16 th time for 1 seconds. 
+# Eating count = 84 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 18 th time for 2 seconds. 
+# Eating count = 85 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 16 th time for 1 seconds. 
+# Eating count = 86 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 19 th time for 1 seconds. 
+# Eating count = 87 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 19 th time for 2 seconds. 
+# Eating count = 88 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 17 th time for 2 seconds. 
+Philospher 5 eating at 19 th time for 1 seconds. 
+# Eating count = 89 
+Philospher 3 is Thinking for 1 seconds. 
+# Eating count = 90 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 17 th time for 1 seconds. 
+# Eating count = 91 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 20 th time for 2 seconds. 
+# Eating count = 92 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 20 th time for 2 seconds. 
+# Eating count = 93 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 18 th time for 2 seconds. 
+# Eating count = 94 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 20 th time for 2 seconds. 
+# Eating count = 95 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 18 th time for 2 seconds. 
+# Eating count = 96 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 21 th time for 2 seconds. 
+# Eating count = 97 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 21 th time for 2 seconds. 
+# Eating count = 98 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 19 th time for 1 seconds. 
+# Eating count = 99 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 19 th time for 1 seconds. 
+# Eating count = 100 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 21 th time for 2 seconds. 
+# Eating count = 101 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 20 th time for 1 seconds. 
+# Eating count = 102 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 22 th time for 1 seconds. 
+# Eating count = 103 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 eating at 22 th time for 2 seconds. 
+# Eating count = 104 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 22 th time for 2 seconds. 
+# Eating count = 105 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 eating at 20 th time for 2 seconds. 
+# Eating count = 106 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 23 th time for 1 seconds. 
+# Eating count = 107 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 23 th time for 2 seconds. 
+# Eating count = 108 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 23 th time for 1 seconds. 
+# Eating count = 109 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 3 eating at 21 th time for 2 seconds. 
+# Eating count = 110 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 24 th time for 2 seconds. 
+Philospher 2 eating at 21 th time for 2 seconds. 
+# Eating count = 111 
+Philospher 4 is Thinking for 2 seconds. 
+# Eating count = 112 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 22 th time for 1 seconds. 
+# Eating count = 113 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 24 th time for 2 seconds. 
+# Eating count = 114 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 22 th time for 1 seconds. 
+# Eating count = 115 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 25 th time for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 116 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 eating at 24 th time for 1 seconds. 
+# Eating count = 117 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 23 th time for 1 seconds. 
+# Eating count = 118 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 25 th time for 1 seconds. 
+# Eating count = 119 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 23 th time for 1 seconds. 
+# Eating count = 120 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 26 th time for 1 seconds. 
+# Eating count = 121 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 25 th time for 2 seconds. 
+# Eating count = 122 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 24 th time for 2 seconds. 
+# Eating count = 123 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 26 th time for 1 seconds. 
+# Eating count = 124 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 24 th time for 1 seconds. 
+# Eating count = 125 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 27 th time for 1 seconds. 
+# Eating count = 126 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 26 th time for 1 seconds. 
+# Eating count = 127 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 25 th time for 1 seconds. 
+# Eating count = 128 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 27 th time for 1 seconds. 
+# Eating count = 129 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 28 th time for 1 seconds. 
+# Eating count = 130 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 25 th time for 2 seconds. 
+# Eating count = 131 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 28 th time for 1 seconds. 
+# Eating count = 132 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 26 th time for 1 seconds. 
+# Eating count = 133 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 27 th time for 1 seconds. 
+# Eating count = 134 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 29 th time for 1 seconds. 
+# Eating count = 135 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 26 th time for 2 seconds. 
+# Eating count = 136 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 29 th time for 2 seconds. 
+# Eating count = 137 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 27 th time for 2 seconds. 
+# Eating count = 138 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 28 th time for 2 seconds. 
+# Eating count = 139 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 30 th time for 2 seconds. 
+# Eating count = 140 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 27 th time for 2 seconds. 
+# Eating count = 141 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 30 th time for 2 seconds. 
+# Eating count = 142 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 28 th time for 2 seconds. 
+# Eating count = 143 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 29 th time for 1 seconds. 
+# Eating count = 144 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 28 th time for 1 seconds. 
+# Eating count = 145 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 eating at 31 th time for 2 seconds. 
+# Eating count = 146 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 31 th time for 1 seconds. 
+# Eating count = 147 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 29 th time for 2 seconds. 
+# Eating count = 148 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 30 th time for 1 seconds. 
+# Eating count = 149 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 32 th time for 1 seconds. 
+# Eating count = 150 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 29 th time for 1 seconds. 
+# Eating count = 151 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 32 th time for 1 seconds. 
+# Eating count = 152 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 30 th time for 1 seconds. 
+# Eating count = 153 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 31 th time for 1 seconds. 
+# Eating count = 154 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 33 th time for 2 seconds. 
+# Eating count = 155 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 2 eating at 30 th time for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 156 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 33 th time for 1 seconds. 
+# Eating count = 157 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 31 th time for 1 seconds. 
+# Eating count = 158 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 34 th time for 1 seconds. 
+# Eating count = 159 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 32 th time for 2 seconds. 
+# Eating count = 160 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 32 th time for 2 seconds. 
+# Eating count = 161 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 34 th time for 2 seconds. 
+# Eating count = 162 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 31 th time for 2 seconds. 
+# Eating count = 163 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 35 th time for 1 seconds. 
+# Eating count = 164 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 33 th time for 1 seconds. 
+# Eating count = 165 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 33 th time for 2 seconds. 
+# Eating count = 166 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 35 th time for 1 seconds. 
+# Eating count = 167 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 32 th time for 1 seconds. 
+# Eating count = 168 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 36 th time for 2 seconds. 
+# Eating count = 169 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 34 th time for 2 seconds. 
+# Eating count = 170 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 34 th time for 2 seconds. 
+# Eating count = 171 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 36 th time for 2 seconds. 
+# Eating count = 172 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 eating at 33 th time for 1 seconds. 
+# Eating count = 173 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 37 th time for 1 seconds. 
+# Eating count = 174 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 35 th time for 2 seconds. 
+# Eating count = 175 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 35 th time for 2 seconds. 
+# Eating count = 176 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 37 th time for 1 seconds. 
+# Eating count = 177 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 34 th time for 2 seconds. 
+# Eating count = 178 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 38 th time for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+# Eating count = 179 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 eating at 36 th time for 2 seconds. 
+# Eating count = 180 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 36 th time for 2 seconds. 
+# Eating count = 181 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 39 th time for 1 seconds. 
+# Eating count = 182 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 2 eating at 35 th time for 1 seconds. 
+# Eating count = 183 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 37 th time for 1 seconds. 
+# Eating count = 184 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 5 eating at 38 th time for 1 seconds. 
+# Eating count = 185 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 37 th time for 1 seconds. 
+# Eating count = 186 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 40 th time for 2 seconds. 
+# Eating count = 187 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 36 th time for 1 seconds. 
+# Eating count = 188 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 38 th time for 1 seconds. 
+# Eating count = 189 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 39 th time for 2 seconds. 
+# Eating count = 190 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 37 th time for 2 seconds. 
+Philospher 4 eating at 41 th time for 1 seconds. 
+# Eating count = 191 
+Philospher 2 is Thinking for 2 seconds. 
+# Eating count = 192 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 38 th time for 1 seconds. 
+# Eating count = 193 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 39 th time for 2 seconds. 
+# Eating count = 194 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 40 th time for 2 seconds. 
+Philospher 2 eating at 38 th time for 1 seconds. 
+# Eating count = 195 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 196 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 42 th time for 1 seconds. 
+# Eating count = 197 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 39 th time for 2 seconds. 
+# Eating count = 198 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 40 th time for 1 seconds. 
+# Eating count = 199 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 41 th time for 2 seconds. 
+# Eating count = 200 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 39 th time for 2 seconds. 
+# Eating count = 201 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 43 th time for 2 seconds. 
+# Eating count = 202 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 40 th time for 2 seconds. 
+# Eating count = 203 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 42 th time for 1 seconds. 
+# Eating count = 204 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 41 th time for 2 seconds. 
+# Eating count = 205 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 44 th time for 2 seconds. 
+Philospher 1 eating at 41 th time for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+# Eating count = 207 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 206 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 eating at 42 th time for 1 seconds. 
+# Eating count = 208 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 5.000000 seconds. 
+Philospher 5 eating at 43 th time for 2 seconds. 
+# Eating count = 209 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 40 th time for 1 seconds. 
+# Eating count = 210 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 45 th time for 1 seconds. 
+# Eating count = 211 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 42 th time for 2 seconds. 
+# Eating count = 212 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 43 th time for 2 seconds. 
+# Eating count = 213 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 44 th time for 2 seconds. 
+# Eating count = 214 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 41 th time for 1 seconds. 
+# Eating count = 215 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 46 th time for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+# Eating count = 216 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 eating at 43 th time for 2 seconds. 
+# Eating count = 217 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 44 th time for 2 seconds. 
+# Eating count = 218 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 42 th time for 1 seconds. 
+# Eating count = 219 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 5 eating at 45 th time for 2 seconds. 
+# Eating count = 220 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 47 th time for 2 seconds. 
+Philospher 1 eating at 44 th time for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 221 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 222 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 eating at 46 th time for 1 seconds. 
+# Eating count = 223 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 45 th time for 2 seconds. 
+# Eating count = 224 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 45 th time for 1 seconds. 
+# Eating count = 225 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 48 th time for 2 seconds. 
+# Eating count = 226 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 43 th time for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 227 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 47 th time for 1 seconds. 
+# Eating count = 228 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 46 th time for 2 seconds. 
+# Eating count = 229 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 46 th time for 2 seconds. 
+# Eating count = 230 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 4 eating at 49 th time for 1 seconds. 
+# Eating count = 231 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 44 th time for 1 seconds. 
+# Eating count = 232 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 48 th time for 2 seconds. 
+# Eating count = 233 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 47 th time for 1 seconds. 
+# Eating count = 234 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 47 th time for 2 seconds. 
+# Eating count = 235 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 50 th time for 2 seconds. 
+# Eating count = 236 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 45 th time for 1 seconds. 
+# Eating count = 237 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 49 th time for 2 seconds. 
+Philospher 3 eating at 48 th time for 1 seconds. 
+# Eating count = 238 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 239 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 51 th time for 1 seconds. 
+# Eating count = 240 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 48 th time for 2 seconds. 
+# Eating count = 241 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 49 th time for 1 seconds. 
+# Eating count = 242 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 5 eating at 50 th time for 1 seconds. 
+# Eating count = 243 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 52 th time for 1 seconds. 
+Philospher 2 eating at 46 th time for 1 seconds. 
+# Eating count = 244 
+Philospher 4 is Thinking for 1 seconds. 
+# Eating count = 245 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 49 th time for 1 seconds. 
+# Eating count = 246 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 51 th time for 1 seconds. 
+# Eating count = 247 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 50 th time for 2 seconds. 
+# Eating count = 248 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 50 th time for 1 seconds. 
+# Eating count = 249 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 53 th time for 1 seconds. 
+# Eating count = 250 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 47 th time for 2 seconds. 
+# Eating count = 251 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 52 th time for 2 seconds. 
+# Eating count = 252 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 51 th time for 1 seconds. 
+# Eating count = 253 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 51 th time for 1 seconds. 
+# Eating count = 254 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 54 th time for 1 seconds. 
+# Eating count = 255 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 48 th time for 2 seconds. 
+# Eating count = 256 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 53 th time for 2 seconds. 
+# Eating count = 257 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 52 th time for 1 seconds. 
+# Eating count = 258 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 52 th time for 1 seconds. 
+# Eating count = 259 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 55 th time for 1 seconds. 
+# Eating count = 260 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 49 th time for 1 seconds. 
+# Eating count = 261 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 54 th time for 2 seconds. 
+# Eating count = 262 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 53 th time for 2 seconds. 
+# Eating count = 263 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 56 th time for 1 seconds. 
+# Eating count = 264 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 eating at 53 th time for 2 seconds. 
+# Eating count = 265 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 55 th time for 2 seconds. 
+# Eating count = 266 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 eating at 50 th time for 2 seconds. 
+# Eating count = 267 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 57 th time for 2 seconds. 
+Philospher 1 eating at 54 th time for 2 seconds. 
+# Eating count = 268 
+Philospher 4 is Thinking for 1 seconds. 
+# Eating count = 269 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 4.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 56 th time for 1 seconds. 
+# Eating count = 270 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 54 th time for 2 seconds. 
+# Eating count = 271 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 58 th time for 1 seconds. 
+# Eating count = 272 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 55 th time for 2 seconds. 
+# Eating count = 273 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 55 th time for 2 seconds. 
+# Eating count = 274 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 7.000000 seconds. 
+Philospher 5 eating at 57 th time for 2 seconds. 
+# Eating count = 275 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 59 th time for 1 seconds. 
+# Eating count = 276 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 eating at 51 th time for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 277 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 58 th time for 1 seconds. 
+# Eating count = 278 
+Philospher 3 eating at 56 th time for 1 seconds. 
+Philospher 5 is Thinking for 1 seconds. 
+# Eating count = 279 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 4.000000 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 56 th time for 1 seconds. 
+# Eating count = 280 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 60 th time for 2 seconds. 
+# Eating count = 281 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 52 th time for 2 seconds. 
+# Eating count = 282 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 59 th time for 2 seconds. 
+# Eating count = 283 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 57 th time for 2 seconds. 
+# Eating count = 284 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 57 th time for 1 seconds. 
+# Eating count = 285 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 61 th time for 1 seconds. 
+# Eating count = 286 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 53 th time for 2 seconds. 
+# Eating count = 287 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 60 th time for 2 seconds. 
+# Eating count = 288 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 58 th time for 1 seconds. 
+Philospher 3 eating at 58 th time for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 289 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 290 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 61 th time for 1 seconds. 
+# Eating count = 291 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 54 th time for 2 seconds. 
+# Eating count = 292 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 62 th time for 1 seconds. 
+# Eating count = 293 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 59 th time for 2 seconds. 
+Philospher 3 eating at 59 th time for 2 seconds. 
+# Eating count = 294 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+# Eating count = 295 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 55 th time for 2 seconds. 
+Philospher 5 eating at 62 th time for 2 seconds. 
+# Eating count = 296 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 297 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 60 th time for 1 seconds. 
+# Eating count = 298 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 3 eating at 60 th time for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+# Eating count = 299 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 eating at 56 th time for 1 seconds. 
+# Eating count = 300 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 63 th time for 2 seconds. 
+# Eating count = 301 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 61 th time for 1 seconds. 
+# Eating count = 302 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 6.000000 seconds. 
+Philospher 1 eating at 61 th time for 2 seconds. 
+# Eating count = 303 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 4 eating at 63 th time for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 304 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 2 eating at 57 th time for 1 seconds. 
+# Eating count = 305 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 64 th time for 2 seconds. 
+# Eating count = 306 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 3 eating at 62 th time for 1 seconds. 
+# Eating count = 307 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 62 th time for 1 seconds. 
+# Eating count = 308 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 64 th time for 2 seconds. 
+# Eating count = 309 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 58 th time for 1 seconds. 
+# Eating count = 310 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 65 th time for 1 seconds. 
+# Eating count = 311 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 63 th time for 1 seconds. 
+# Eating count = 312 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 63 th time for 2 seconds. 
+# Eating count = 313 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 66 th time for 2 seconds. 
+Philospher 2 eating at 59 th time for 2 seconds. 
+# Eating count = 314 
+Philospher 5 is Thinking for 1 seconds. 
+# Eating count = 315 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 65 th time for 1 seconds. 
+# Eating count = 316 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 64 th time for 2 seconds. 
+# Eating count = 317 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 64 th time for 2 seconds. 
+# Eating count = 318 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 67 th time for 1 seconds. 
+# Eating count = 319 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 60 th time for 2 seconds. 
+# Eating count = 320 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 66 th time for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+# Eating count = 321 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 65 th time for 1 seconds. 
+Philospher 3 eating at 65 th time for 1 seconds. 
+# Eating count = 322 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 323 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 68 th time for 1 seconds. 
+# Eating count = 324 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 61 th time for 1 seconds. 
+# Eating count = 325 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 67 th time for 1 seconds. 
+# Eating count = 326 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 66 th time for 1 seconds. 
+# Eating count = 327 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 69 th time for 1 seconds. 
+# Eating count = 328 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 66 th time for 2 seconds. 
+# Eating count = 329 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 68 th time for 1 seconds. 
+# Eating count = 330 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 eating at 67 th time for 2 seconds. 
+# Eating count = 331 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 70 th time for 1 seconds. 
+# Eating count = 332 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 62 th time for 2 seconds. 
+# Eating count = 333 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 69 th time for 2 seconds. 
+Philospher 1 eating at 68 th time for 1 seconds. 
+# Eating count = 334 
+Philospher 4 is Thinking for 1 seconds. 
+# Eating count = 335 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 71 th time for 2 seconds. 
+# Eating count = 336 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 67 th time for 2 seconds. 
+# Eating count = 337 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 69 th time for 1 seconds. 
+# Eating count = 338 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 70 th time for 1 seconds. 
+# Eating count = 339 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 63 th time for 1 seconds. 
+# Eating count = 340 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 72 th time for 2 seconds. 
+# Eating count = 341 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 68 th time for 2 seconds. 
+# Eating count = 342 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 70 th time for 1 seconds. 
+# Eating count = 343 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 64 th time for 1 seconds. 
+# Eating count = 344 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 71 th time for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+# Eating count = 345 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 73 th time for 1 seconds. 
+# Eating count = 346 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 69 th time for 2 seconds. 
+# Eating count = 347 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 72 th time for 1 seconds. 
+# Eating count = 348 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 eating at 71 th time for 2 seconds. 
+# Eating count = 349 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 65 th time for 1 seconds. 
+# Eating count = 350 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 74 th time for 2 seconds. 
+# Eating count = 351 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 72 th time for 1 seconds. 
+# Eating count = 352 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 3 eating at 70 th time for 2 seconds. 
+# Eating count = 353 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 66 th time for 1 seconds. 
+# Eating count = 354 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 73 th time for 2 seconds. 
+# Eating count = 355 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 73 th time for 1 seconds. 
+# Eating count = 356 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 75 th time for 1 seconds. 
+# Eating count = 357 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 71 th time for 2 seconds. 
+# Eating count = 358 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 74 th time for 1 seconds. 
+# Eating count = 359 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 74 th time for 2 seconds. 
+# Eating count = 360 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 67 th time for 2 seconds. 
+# Eating count = 361 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 76 th time for 1 seconds. 
+# Eating count = 362 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 72 th time for 2 seconds. 
+# Eating count = 363 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 75 th time for 2 seconds. 
+# Eating count = 364 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 75 th time for 1 seconds. 
+# Eating count = 365 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 68 th time for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+# Eating count = 366 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 5 eating at 77 th time for 1 seconds. 
+# Eating count = 367 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 73 th time for 2 seconds. 
+# Eating count = 368 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 76 th time for 2 seconds. 
+# Eating count = 369 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 76 th time for 1 seconds. 
+# Eating count = 370 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 69 th time for 1 seconds. 
+# Eating count = 371 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 78 th time for 2 seconds. 
+Philospher 3 eating at 74 th time for 1 seconds. 
+# Eating count = 372 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 373 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 77 th time for 2 seconds. 
+Philospher 4 eating at 77 th time for 2 seconds. 
+# Eating count = 374 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+# Eating count = 375 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 70 th time for 1 seconds. 
+# Eating count = 376 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 79 th time for 2 seconds. 
+# Eating count = 377 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 75 th time for 1 seconds. 
+# Eating count = 378 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 78 th time for 1 seconds. 
+# Eating count = 379 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 78 th time for 2 seconds. 
+# Eating count = 380 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 76 th time for 1 seconds. 
+# Eating count = 381 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 80 th time for 1 seconds. 
+# Eating count = 382 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 71 th time for 2 seconds. 
+# Eating count = 383 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 79 th time for 1 seconds. 
+# Eating count = 384 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 79 th time for 1 seconds. 
+# Eating count = 385 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 77 th time for 2 seconds. 
+Philospher 5 eating at 81 th time for 1 seconds. 
+# Eating count = 386 
+Philospher 3 is Thinking for 1 seconds. 
+# Eating count = 387 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 72 th time for 2 seconds. 
+# Eating count = 388 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 80 th time for 2 seconds. 
+# Eating count = 389 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 80 th time for 1 seconds. 
+# Eating count = 390 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 78 th time for 1 seconds. 
+# Eating count = 391 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 82 th time for 2 seconds. 
+Philospher 2 eating at 73 th time for 1 seconds. 
+# Eating count = 392 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 393 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 81 th time for 2 seconds. 
+Philospher 4 eating at 81 th time for 2 seconds. 
+# Eating count = 394 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 395 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 74 th time for 1 seconds. 
+# Eating count = 396 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 4.000000 seconds. 
+Philospher 5 eating at 83 th time for 2 seconds. 
+# Eating count = 397 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 79 th time for 2 seconds. 
+Philospher 1 eating at 82 th time for 1 seconds. 
+# Eating count = 398 
+Philospher 3 is Thinking for 2 seconds. 
+# Eating count = 399 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 82 th time for 2 seconds. 
+Philospher 2 eating at 75 th time for 2 seconds. 
+# Eating count = 400 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+# Eating count = 401 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 84 th time for 2 seconds. 
+Philospher 3 eating at 80 th time for 2 seconds. 
+# Eating count = 402 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 403 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 83 th time for 1 seconds. 
+# Eating count = 404 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 83 th time for 1 seconds. 
+# Eating count = 405 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 76 th time for 2 seconds. 
+# Eating count = 406 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 85 th time for 2 seconds. 
+# Eating count = 407 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 81 th time for 2 seconds. 
+# Eating count = 408 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 84 th time for 2 seconds. 
+# Eating count = 409 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 84 th time for 1 seconds. 
+# Eating count = 410 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 77 th time for 1 seconds. 
+# Eating count = 411 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 86 th time for 1 seconds. 
+# Eating count = 412 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 85 th time for 1 seconds. 
+# Eating count = 413 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 82 th time for 2 seconds. 
+# Eating count = 414 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 87 th time for 2 seconds. 
+# Eating count = 415 
+Philospher 2 eating at 78 th time for 2 seconds. 
+Philospher 4 is Hungry for 4.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 416 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 85 th time for 1 seconds. 
+Philospher 1 eating at 86 th time for 1 seconds. 
+# Eating count = 417 
+# Eating count = 418 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 83 th time for 1 seconds. 
+# Eating count = 419 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 88 th time for 2 seconds. 
+# Eating count = 420 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 79 th time for 2 seconds. 
+# Eating count = 421 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 87 th time for 1 seconds. 
+# Eating count = 422 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 86 th time for 2 seconds. 
+# Eating count = 423 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 80 th time for 2 seconds. 
+# Eating count = 424 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 4.000000 seconds. 
+Philospher 5 eating at 89 th time for 2 seconds. 
+# Eating count = 425 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 84 th time for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+# Eating count = 426 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 eating at 88 th time for 2 seconds. 
+# Eating count = 427 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 87 th time for 2 seconds. 
+# Eating count = 428 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 81 th time for 2 seconds. 
+# Eating count = 429 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 90 th time for 2 seconds. 
+# Eating count = 430 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 85 th time for 1 seconds. 
+# Eating count = 431 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 89 th time for 1 seconds. 
+# Eating count = 432 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 88 th time for 1 seconds. 
+# Eating count = 433 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 82 th time for 2 seconds. 
+# Eating count = 434 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 91 th time for 2 seconds. 
+# Eating count = 435 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 86 th time for 1 seconds. 
+# Eating count = 436 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 90 th time for 2 seconds. 
+# Eating count = 437 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 89 th time for 1 seconds. 
+# Eating count = 438 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 83 th time for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 439 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 92 th time for 2 seconds. 
+# Eating count = 440 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 87 th time for 1 seconds. 
+# Eating count = 441 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 91 th time for 1 seconds. 
+# Eating count = 442 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 90 th time for 1 seconds. 
+# Eating count = 443 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 84 th time for 2 seconds. 
+# Eating count = 444 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 93 th time for 1 seconds. 
+# Eating count = 445 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 88 th time for 1 seconds. 
+# Eating count = 446 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 92 th time for 1 seconds. 
+# Eating count = 447 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 91 th time for 1 seconds. 
+# Eating count = 448 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 85 th time for 2 seconds. 
+# Eating count = 449 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 94 th time for 1 seconds. 
+# Eating count = 450 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 89 th time for 1 seconds. 
+# Eating count = 451 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 93 th time for 1 seconds. 
+# Eating count = 452 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 86 th time for 1 seconds. 
+# Eating count = 453 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 92 th time for 2 seconds. 
+# Eating count = 454 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 94 th time for 2 seconds. 
+# Eating count = 455 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 3 eating at 90 th time for 2 seconds. 
+# Eating count = 456 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 95 th time for 1 seconds. 
+# Eating count = 457 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 87 th time for 1 seconds. 
+# Eating count = 458 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 93 th time for 2 seconds. 
+Philospher 1 eating at 95 th time for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+# Eating count = 460 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 459 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 eating at 91 th time for 2 seconds. 
+Philospher 5 eating at 96 th time for 2 seconds. 
+# Eating count = 461 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+# Eating count = 462 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 88 th time for 2 seconds. 
+# Eating count = 463 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 94 th time for 2 seconds. 
+# Eating count = 464 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 96 th time for 1 seconds. 
+# Eating count = 465 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 92 th time for 2 seconds. 
+# Eating count = 466 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 5 eating at 97 th time for 1 seconds. 
+# Eating count = 467 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 95 th time for 1 seconds. 
+# Eating count = 468 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 eating at 89 th time for 1 seconds. 
+# Eating count = 469 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 97 th time for 2 seconds. 
+# Eating count = 470 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 93 th time for 2 seconds. 
+# Eating count = 471 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 98 th time for 2 seconds. 
+Philospher 2 eating at 90 th time for 1 seconds. 
+# Eating count = 472 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 473 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 98 th time for 1 seconds. 
+# Eating count = 474 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 96 th time for 2 seconds. 
+# Eating count = 475 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 91 th time for 2 seconds. 
+# Eating count = 476 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 99 th time for 2 seconds. 
+# Eating count = 477 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 94 th time for 1 seconds. 
+# Eating count = 478 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 97 th time for 1 seconds. 
+# Eating count = 479 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 99 th time for 2 seconds. 
+# Eating count = 480 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 95 th time for 1 seconds. 
+# Eating count = 481 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 100 th time for 2 seconds. 
+# Eating count = 482 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 92 th time for 2 seconds. 
+# Eating count = 483 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 98 th time for 1 seconds. 
+# Eating count = 484 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 100 th time for 1 seconds. 
+# Eating count = 485 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 96 th time for 1 seconds. 
+# Eating count = 486 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 101 th time for 1 seconds. 
+# Eating count = 487 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 93 th time for 2 seconds. 
+# Eating count = 488 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 99 th time for 2 seconds. 
+# Eating count = 489 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 101 th time for 1 seconds. 
+# Eating count = 490 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 97 th time for 1 seconds. 
+# Eating count = 491 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 94 th time for 1 seconds. 
+# Eating count = 492 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 102 th time for 2 seconds. 
+# Eating count = 493 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 102 th time for 1 seconds. 
+# Eating count = 494 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 4 eating at 100 th time for 1 seconds. 
+# Eating count = 495 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 95 th time for 1 seconds. 
+# Eating count = 496 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 98 th time for 1 seconds. 
+# Eating count = 497 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 5 eating at 103 th time for 2 seconds. 
+# Eating count = 498 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 103 th time for 2 seconds. 
+Philospher 4 eating at 101 th time for 2 seconds. 
+# Eating count = 499 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 500 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 104 th time for 1 seconds. 
+# Eating count = 501 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 96 th time for 2 seconds. 
+# Eating count = 502 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 102 th time for 1 seconds. 
+# Eating count = 503 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 4.000000 seconds. 
+Philospher 3 eating at 99 th time for 1 seconds. 
+# Eating count = 504 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 eating at 104 th time for 2 seconds. 
+# Eating count = 505 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 97 th time for 2 seconds. 
+# Eating count = 506 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 105 th time for 2 seconds. 
+# Eating count = 507 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 100 th time for 1 seconds. 
+# Eating count = 508 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 105 th time for 2 seconds. 
+Philospher 4 eating at 103 th time for 1 seconds. 
+# Eating count = 509 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+# Eating count = 510 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 98 th time for 1 seconds. 
+# Eating count = 511 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 106 th time for 2 seconds. 
+# Eating count = 512 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 101 th time for 1 seconds. 
+# Eating count = 513 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 106 th time for 1 seconds. 
+# Eating count = 514 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 4 eating at 104 th time for 1 seconds. 
+# Eating count = 515 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 99 th time for 2 seconds. 
+# Eating count = 516 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 107 th time for 2 seconds. 
+# Eating count = 517 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 102 th time for 2 seconds. 
+# Eating count = 518 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 107 th time for 2 seconds. 
+# Eating count = 519 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 105 th time for 2 seconds. 
+# Eating count = 520 
+Philospher 2 eating at 100 th time for 1 seconds. 
+Philospher 4 is Thinking for 1 seconds. 
+# Eating count = 521 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 108 th time for 1 seconds. 
+# Eating count = 522 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 103 th time for 2 seconds. 
+# Eating count = 523 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 eating at 108 th time for 1 seconds. 
+# Eating count = 524 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 101 th time for 1 seconds. 
+# Eating count = 525 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 106 th time for 2 seconds. 
+# Eating count = 526 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 104 th time for 1 seconds. 
+# Eating count = 527 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 109 th time for 2 seconds. 
+# Eating count = 528 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 107 th time for 1 seconds. 
+# Eating count = 529 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 2 eating at 102 th time for 1 seconds. 
+# Eating count = 530 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 109 th time for 1 seconds. 
+# Eating count = 531 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 110 th time for 1 seconds. 
+# Eating count = 532 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 3 eating at 105 th time for 2 seconds. 
+# Eating count = 533 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 103 th time for 1 seconds. 
+# Eating count = 534 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 108 th time for 2 seconds. 
+# Eating count = 535 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 111 th time for 1 seconds. 
+# Eating count = 536 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 106 th time for 1 seconds. 
+# Eating count = 537 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 104 th time for 1 seconds. 
+# Eating count = 538 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 110 th time for 2 seconds. 
+# Eating count = 539 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 107 th time for 1 seconds. 
+# Eating count = 540 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 109 th time for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 112 th time for 2 seconds. 
+# Eating count = 541 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 542 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 108 th time for 1 seconds. 
+# Eating count = 543 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 111 th time for 1 seconds. 
+# Eating count = 544 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 110 th time for 2 seconds. 
+Philospher 2 eating at 105 th time for 2 seconds. 
+# Eating count = 545 
+Philospher 4 is Thinking for 2 seconds. 
+# Eating count = 546 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 112 th time for 1 seconds. 
+# Eating count = 547 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 3 eating at 109 th time for 1 seconds. 
+# Eating count = 548 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 113 th time for 1 seconds. 
+# Eating count = 549 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 111 th time for 2 seconds. 
+# Eating count = 550 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 106 th time for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+# Eating count = 551 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 eating at 110 th time for 1 seconds. 
+# Eating count = 552 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 113 th time for 2 seconds. 
+# Eating count = 553 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 107 th time for 1 seconds. 
+# Eating count = 554 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 112 th time for 2 seconds. 
+# Eating count = 555 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 114 th time for 2 seconds. 
+# Eating count = 556 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 111 th time for 1 seconds. 
+# Eating count = 557 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 108 th time for 1 seconds. 
+# Eating count = 558 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 5 eating at 114 th time for 2 seconds. 
+# Eating count = 559 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 115 th time for 1 seconds. 
+# Eating count = 560 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 113 th time for 2 seconds. 
+# Eating count = 561 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 109 th time for 1 seconds. 
+# Eating count = 562 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 115 th time for 1 seconds. 
+# Eating count = 563 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 112 th time for 1 seconds. 
+# Eating count = 564 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 116 th time for 1 seconds. 
+# Eating count = 565 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 110 th time for 1 seconds. 
+# Eating count = 566 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 eating at 114 th time for 2 seconds. 
+# Eating count = 567 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 eating at 113 th time for 2 seconds. 
+Philospher 5 eating at 116 th time for 2 seconds. 
+# Eating count = 568 
+Philospher 3 is Thinking for 2 seconds. 
+# Eating count = 569 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 111 th time for 1 seconds. 
+Philospher 4 eating at 115 th time for 1 seconds. 
+# Eating count = 571 
+# Eating count = 570 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 117 th time for 1 seconds. 
+# Eating count = 572 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 114 th time for 1 seconds. 
+# Eating count = 573 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 117 th time for 2 seconds. 
+# Eating count = 574 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 112 th time for 2 seconds. 
+# Eating count = 575 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 116 th time for 2 seconds. 
+# Eating count = 576 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 118 th time for 2 seconds. 
+# Eating count = 577 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 118 th time for 1 seconds. 
+Philospher 3 eating at 115 th time for 2 seconds. 
+# Eating count = 578 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 579 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 119 th time for 1 seconds. 
+Philospher 4 eating at 117 th time for 1 seconds. 
+# Eating count = 580 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 581 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 119 th time for 1 seconds. 
+Philospher 2 eating at 113 th time for 2 seconds. 
+# Eating count = 582 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 583 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 eating at 116 th time for 1 seconds. 
+# Eating count = 584 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 120 th time for 2 seconds. 
+# Eating count = 585 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 118 th time for 2 seconds. 
+Philospher 2 eating at 114 th time for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+# Eating count = 586 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+# Eating count = 587 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 120 th time for 1 seconds. 
+# Eating count = 588 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 117 th time for 2 seconds. 
+# Eating count = 589 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 121 th time for 2 seconds. 
+# Eating count = 590 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 119 th time for 2 seconds. 
+# Eating count = 591 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 121 th time for 1 seconds. 
+# Eating count = 592 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 eating at 115 th time for 2 seconds. 
+# Eating count = 593 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 118 th time for 1 seconds. 
+# Eating count = 594 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 1 eating at 122 th time for 1 seconds. 
+# Eating count = 595 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 120 th time for 2 seconds. 
+# Eating count = 596 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 116 th time for 2 seconds. 
+# Eating count = 597 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 122 th time for 1 seconds. 
+# Eating count = 598 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 123 th time for 1 seconds. 
+# Eating count = 599 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 119 th time for 2 seconds. 
+# Eating count = 600 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 117 th time for 1 seconds. 
+# Eating count = 601 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 123 th time for 2 seconds. 
+# Eating count = 602 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 124 th time for 2 seconds. 
+Philospher 4 eating at 121 th time for 2 seconds. 
+# Eating count = 603 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 604 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 124 th time for 1 seconds. 
+# Eating count = 605 
+Philospher 2 eating at 118 th time for 1 seconds. 
+Philospher 5 is Thinking for 2 seconds. 
+# Eating count = 606 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 125 th time for 1 seconds. 
+# Eating count = 607 
+Philospher 3 eating at 120 th time for 1 seconds. 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 608 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 119 th time for 1 seconds. 
+# Eating count = 609 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 122 th time for 2 seconds. 
+# Eating count = 610 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 126 th time for 1 seconds. 
+# Eating count = 611 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 121 th time for 1 seconds. 
+# Eating count = 612 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 125 th time for 2 seconds. 
+Philospher 2 eating at 120 th time for 1 seconds. 
+# Eating count = 613 
+# Eating count = 614 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 127 th time for 1 seconds. 
+# Eating count = 615 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 123 th time for 2 seconds. 
+# Eating count = 616 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 121 th time for 1 seconds. 
+# Eating count = 617 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 126 th time for 1 seconds. 
+Philospher 3 eating at 122 th time for 1 seconds. 
+# Eating count = 618 
+# Eating count = 619 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 128 th time for 1 seconds. 
+# Eating count = 620 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 124 th time for 2 seconds. 
+# Eating count = 621 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 122 th time for 2 seconds. 
+# Eating count = 622 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 127 th time for 2 seconds. 
+# Eating count = 623 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 123 th time for 2 seconds. 
+# Eating count = 624 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 129 th time for 1 seconds. 
+# Eating count = 625 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 123 th time for 1 seconds. 
+Philospher 4 eating at 125 th time for 2 seconds. 
+# Eating count = 626 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+# Eating count = 627 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 124 th time for 1 seconds. 
+Philospher 1 eating at 130 th time for 1 seconds. 
+# Eating count = 628 
+Philospher 3 is Thinking for 1 seconds. 
+# Eating count = 629 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 124 th time for 2 seconds. 
+Philospher 5 eating at 128 th time for 2 seconds. 
+# Eating count = 630 
+Philospher 2 is Thinking for 2 seconds. 
+# Eating count = 631 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 131 th time for 1 seconds. 
+# Eating count = 632 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 3 eating at 125 th time for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 633 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 125 th time for 1 seconds. 
+# Eating count = 634 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 5 eating at 129 th time for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+# Eating count = 635 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 132 th time for 1 seconds. 
+# Eating count = 636 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 3 eating at 126 th time for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 637 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 130 th time for 1 seconds. 
+# Eating count = 638 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 8.000000 seconds. 
+Philospher 2 eating at 126 th time for 2 seconds. 
+# Eating count = 639 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 126 th time for 2 seconds. 
+# Eating count = 640 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 133 th time for 2 seconds. 
+# Eating count = 641 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 127 th time for 2 seconds. 
+# Eating count = 642 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 131 th time for 2 seconds. 
+# Eating count = 643 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 127 th time for 2 seconds. 
+# Eating count = 644 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 127 th time for 1 seconds. 
+# Eating count = 645 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 134 th time for 1 seconds. 
+# Eating count = 646 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 128 th time for 2 seconds. 
+# Eating count = 647 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 132 th time for 1 seconds. 
+# Eating count = 648 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 128 th time for 1 seconds. 
+# Eating count = 649 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 128 th time for 2 seconds. 
+# Eating count = 650 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 eating at 135 th time for 1 seconds. 
+# Eating count = 651 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 129 th time for 1 seconds. 
+# Eating count = 652 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 133 th time for 2 seconds. 
+# Eating count = 653 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 129 th time for 1 seconds. 
+# Eating count = 654 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 129 th time for 1 seconds. 
+Philospher 1 eating at 136 th time for 1 seconds. 
+# Eating count = 655 
+Philospher 4 is Thinking for 2 seconds. 
+# Eating count = 656 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 134 th time for 1 seconds. 
+# Eating count = 657 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 3 eating at 130 th time for 2 seconds. 
+# Eating count = 658 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 130 th time for 2 seconds. 
+Philospher 2 eating at 130 th time for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+# Eating count = 659 
+# Eating count = 660 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 131 th time for 1 seconds. 
+# Eating count = 661 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 135 th time for 2 seconds. 
+# Eating count = 662 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 131 th time for 2 seconds. 
+# Eating count = 663 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 5.000000 seconds. 
+Philospher 4 eating at 131 th time for 2 seconds. 
+# Eating count = 664 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 132 th time for 1 seconds. 
+Philospher 1 eating at 137 th time for 2 seconds. 
+# Eating count = 665 
+Philospher 3 is Thinking for 2 seconds. 
+# Eating count = 666 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 132 th time for 1 seconds. 
+# Eating count = 667 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 2 eating at 132 th time for 1 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+# Eating count = 668 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 136 th time for 2 seconds. 
+# Eating count = 669 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 133 th time for 2 seconds. 
+# Eating count = 670 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 133 th time for 1 seconds. 
+# Eating count = 671 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 eating at 138 th time for 2 seconds. 
+# Eating count = 672 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 137 th time for 1 seconds. 
+Philospher 2 eating at 133 th time for 1 seconds. 
+# Eating count = 673 
+# Eating count = 674 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 134 th time for 2 seconds. 
+# Eating count = 675 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 139 th time for 2 seconds. 
+# Eating count = 676 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 134 th time for 2 seconds. 
+# Eating count = 677 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 138 th time for 2 seconds. 
+# Eating count = 678 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 134 th time for 2 seconds. 
+# Eating count = 679 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 135 th time for 2 seconds. 
+# Eating count = 680 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 140 th time for 2 seconds. 
+# Eating count = 681 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 135 th time for 2 seconds. 
+# Eating count = 682 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 139 th time for 1 seconds. 
+# Eating count = 683 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 135 th time for 1 seconds. 
+# Eating count = 684 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 141 th time for 1 seconds. 
+# Eating count = 685 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 136 th time for 2 seconds. 
+# Eating count = 686 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 140 th time for 1 seconds. 
+# Eating count = 687 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 136 th time for 2 seconds. 
+# Eating count = 688 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 137 th time for 1 seconds. 
+# Eating count = 689 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 142 th time for 1 seconds. 
+# Eating count = 690 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 136 th time for 2 seconds. 
+Philospher 5 eating at 141 th time for 1 seconds. 
+# Eating count = 691 
+Philospher 3 is Thinking for 2 seconds. 
+# Eating count = 692 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 137 th time for 1 seconds. 
+# Eating count = 693 
+Philospher 4 eating at 138 th time for 1 seconds. 
+Philospher 2 is Thinking for 2 seconds. 
+# Eating count = 694 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 143 th time for 2 seconds. 
+# Eating count = 695 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 137 th time for 2 seconds. 
+# Eating count = 696 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 142 th time for 1 seconds. 
+# Eating count = 697 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 138 th time for 1 seconds. 
+# Eating count = 698 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 139 th time for 2 seconds. 
+# Eating count = 699 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 144 th time for 2 seconds. 
+# Eating count = 700 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 138 th time for 2 seconds. 
+Philospher 5 eating at 143 th time for 1 seconds. 
+# Eating count = 701 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 5 is Thinking for 1 seconds. 
+# Eating count = 702 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 eating at 140 th time for 1 seconds. 
+# Eating count = 703 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 139 th time for 2 seconds. 
+# Eating count = 704 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 144 th time for 1 seconds. 
+# Eating count = 705 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 139 th time for 1 seconds. 
+# Eating count = 706 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 145 th time for 2 seconds. 
+# Eating count = 707 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 141 th time for 1 seconds. 
+# Eating count = 708 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 140 th time for 2 seconds. 
+Philospher 5 eating at 145 th time for 2 seconds. 
+# Eating count = 709 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+# Eating count = 710 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 eating at 146 th time for 1 seconds. 
+# Eating count = 711 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 140 th time for 2 seconds. 
+# Eating count = 712 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 141 th time for 1 seconds. 
+# Eating count = 713 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 146 th time for 2 seconds. 
+# Eating count = 714 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 4.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 147 th time for 1 seconds. 
+# Eating count = 715 
+Philospher 4 eating at 142 th time for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 716 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 eating at 147 th time for 1 seconds. 
+# Eating count = 717 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 eating at 142 th time for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+# Eating count = 718 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 143 th time for 1 seconds. 
+# Eating count = 719 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 148 th time for 2 seconds. 
+Philospher 3 eating at 141 th time for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+# Eating count = 720 
+Philospher 1 is Thinking for 1 seconds. 
+# Eating count = 721 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 143 th time for 1 seconds. 
+# Eating count = 722 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 5 eating at 148 th time for 2 seconds. 
+# Eating count = 723 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 149 th time for 2 seconds. 
+Philospher 4 eating at 144 th time for 2 seconds. 
+# Eating count = 724 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 725 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 144 th time for 1 seconds. 
+Philospher 5 eating at 149 th time for 1 seconds. 
+# Eating count = 726 
+Philospher 2 is Thinking for 1 seconds. 
+# Eating count = 727 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 142 th time for 2 seconds. 
+# Eating count = 728 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 150 th time for 2 seconds. 
+# Eating count = 729 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 145 th time for 1 seconds. 
+# Eating count = 730 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 150 th time for 1 seconds. 
+# Eating count = 731 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 145 th time for 2 seconds. 
+# Eating count = 732 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 146 th time for 2 seconds. 
+# Eating count = 733 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 151 th time for 2 seconds. 
+# Eating count = 734 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 143 th time for 1 seconds. 
+# Eating count = 735 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 151 th time for 1 seconds. 
+# Eating count = 736 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 146 th time for 1 seconds. 
+# Eating count = 737 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 152 th time for 1 seconds. 
+# Eating count = 738 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 147 th time for 2 seconds. 
+# Eating count = 739 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 147 th time for 1 seconds. 
+# Eating count = 740 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 144 th time for 1 seconds. 
+# Eating count = 741 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 5 eating at 152 th time for 2 seconds. 
+# Eating count = 742 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 148 th time for 1 seconds. 
+# Eating count = 743 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 1 eating at 153 th time for 1 seconds. 
+# Eating count = 744 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 148 th time for 1 seconds. 
+# Eating count = 745 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 153 th time for 2 seconds. 
+# Eating count = 746 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 145 th time for 2 seconds. 
+# Eating count = 747 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 154 th time for 2 seconds. 
+# Eating count = 748 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 149 th time for 2 seconds. 
+# Eating count = 749 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 149 th time for 2 seconds. 
+# Eating count = 750 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 154 th time for 2 seconds. 
+# Eating count = 751 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 146 th time for 2 seconds. 
+# Eating count = 752 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 155 th time for 2 seconds. 
+# Eating count = 753 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 150 th time for 2 seconds. 
+# Eating count = 754 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 150 th time for 2 seconds. 
+# Eating count = 755 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 155 th time for 2 seconds. 
+# Eating count = 756 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 3 eating at 147 th time for 2 seconds. 
+# Eating count = 757 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 151 th time for 1 seconds. 
+# Eating count = 758 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 156 th time for 2 seconds. 
+# Eating count = 759 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 156 th time for 1 seconds. 
+# Eating count = 760 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 3 eating at 148 th time for 2 seconds. 
+# Eating count = 761 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 4.000000 seconds. 
+Philospher 2 eating at 151 th time for 1 seconds. 
+# Eating count = 762 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 152 th time for 2 seconds. 
+# Eating count = 763 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 157 th time for 2 seconds. 
+# Eating count = 764 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 149 th time for 2 seconds. 
+# Eating count = 765 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 157 th time for 1 seconds. 
+# Eating count = 766 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 152 th time for 1 seconds. 
+# Eating count = 767 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 153 th time for 2 seconds. 
+# Eating count = 768 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 158 th time for 2 seconds. 
+# Eating count = 769 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 150 th time for 1 seconds. 
+# Eating count = 770 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 158 th time for 1 seconds. 
+# Eating count = 771 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 153 th time for 2 seconds. 
+# Eating count = 772 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 154 th time for 2 seconds. 
+Philospher 1 eating at 159 th time for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 774 
+Philospher 4 is Thinking for 2 seconds. 
+# Eating count = 773 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 eating at 159 th time for 1 seconds. 
+# Eating count = 775 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 151 th time for 2 seconds. 
+# Eating count = 776 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 160 th time for 2 seconds. 
+Philospher 4 eating at 155 th time for 1 seconds. 
+# Eating count = 777 
+Philospher 4 is Thinking for 2 seconds. 
+# Eating count = 778 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 160 th time for 1 seconds. 
+# Eating count = 779 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 eating at 154 th time for 1 seconds. 
+# Eating count = 780 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 152 th time for 1 seconds. 
+# Eating count = 781 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 161 th time for 2 seconds. 
+# Eating count = 782 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 156 th time for 2 seconds. 
+# Eating count = 783 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 161 th time for 1 seconds. 
+# Eating count = 784 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 155 th time for 2 seconds. 
+# Eating count = 785 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 157 th time for 2 seconds. 
+# Eating count = 786 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 1 eating at 162 th time for 2 seconds. 
+# Eating count = 787 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 153 th time for 1 seconds. 
+# Eating count = 788 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 162 th time for 1 seconds. 
+# Eating count = 789 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 156 th time for 2 seconds. 
+# Eating count = 790 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 158 th time for 2 seconds. 
+# Eating count = 791 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 163 th time for 1 seconds. 
+# Eating count = 792 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 154 th time for 1 seconds. 
+Philospher 5 eating at 163 th time for 1 seconds. 
+# Eating count = 793 
+Philospher 3 is Thinking for 2 seconds. 
+# Eating count = 794 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 159 th time for 1 seconds. 
+# Eating count = 795 
+Philospher 2 eating at 157 th time for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 4 is Thinking for 2 seconds. 
+# Eating count = 796 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 164 th time for 2 seconds. 
+# Eating count = 797 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 3 eating at 155 th time for 2 seconds. 
+# Eating count = 798 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 164 th time for 2 seconds. 
+# Eating count = 799 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 160 th time for 2 seconds. 
+# Eating count = 800 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 158 th time for 1 seconds. 
+# Eating count = 801 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 156 th time for 1 seconds. 
+# Eating count = 802 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 5 eating at 165 th time for 2 seconds. 
+# Eating count = 803 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 161 th time for 1 seconds. 
+# Eating count = 804 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 165 th time for 2 seconds. 
+# Eating count = 805 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 157 th time for 2 seconds. 
+# Eating count = 806 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 166 th time for 2 seconds. 
+# Eating count = 807 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 162 th time for 1 seconds. 
+# Eating count = 808 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 2 eating at 159 th time for 2 seconds. 
+# Eating count = 809 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 158 th time for 1 seconds. 
+# Eating count = 810 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 166 th time for 2 seconds. 
+# Eating count = 811 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 163 th time for 1 seconds. 
+# Eating count = 812 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 160 th time for 2 seconds. 
+# Eating count = 813 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 167 th time for 2 seconds. 
+# Eating count = 814 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 159 th time for 2 seconds. 
+# Eating count = 815 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 167 th time for 2 seconds. 
+# Eating count = 816 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 164 th time for 1 seconds. 
+# Eating count = 817 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 161 th time for 1 seconds. 
+# Eating count = 818 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 168 th time for 1 seconds. 
+# Eating count = 819 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 160 th time for 1 seconds. 
+# Eating count = 820 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 165 th time for 1 seconds. 
+# Eating count = 821 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 168 th time for 2 seconds. 
+# Eating count = 822 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 169 th time for 1 seconds. 
+# Eating count = 823 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 3 eating at 161 th time for 2 seconds. 
+# Eating count = 824 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 2 eating at 162 th time for 1 seconds. 
+# Eating count = 825 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 166 th time for 2 seconds. 
+# Eating count = 826 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 162 th time for 1 seconds. 
+# Eating count = 827 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 169 th time for 2 seconds. 
+# Eating count = 828 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 167 th time for 2 seconds. 
+# Eating count = 829 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 2 eating at 163 th time for 2 seconds. 
+# Eating count = 830 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 163 th time for 1 seconds. 
+# Eating count = 831 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 170 th time for 2 seconds. 
+# Eating count = 832 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 164 th time for 2 seconds. 
+# Eating count = 833 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 4 eating at 168 th time for 2 seconds. 
+# Eating count = 834 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 170 th time for 1 seconds. 
+# Eating count = 835 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 164 th time for 1 seconds. 
+# Eating count = 836 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 171 th time for 1 seconds. 
+# Eating count = 837 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 165 th time for 1 seconds. 
+# Eating count = 838 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 169 th time for 1 seconds. 
+# Eating count = 839 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 165 th time for 1 seconds. 
+# Eating count = 840 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 171 th time for 2 seconds. 
+# Eating count = 841 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 170 th time for 1 seconds. 
+# Eating count = 842 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 172 th time for 1 seconds. 
+# Eating count = 843 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 eating at 166 th time for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+# Eating count = 844 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 eating at 166 th time for 1 seconds. 
+# Eating count = 845 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 172 th time for 1 seconds. 
+# Eating count = 846 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 171 th time for 2 seconds. 
+# Eating count = 847 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 2 eating at 167 th time for 2 seconds. 
+# Eating count = 848 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 173 th time for 2 seconds. 
+# Eating count = 849 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 3.000000 seconds. 
+Philospher 3 eating at 167 th time for 2 seconds. 
+# Eating count = 850 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 172 th time for 1 seconds. 
+# Eating count = 851 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 1 eating at 173 th time for 2 seconds. 
+# Eating count = 852 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 174 th time for 1 seconds. 
+# Eating count = 853 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 168 th time for 2 seconds. 
+# Eating count = 854 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 173 th time for 1 seconds. 
+# Eating count = 855 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 174 th time for 1 seconds. 
+# Eating count = 856 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 168 th time for 1 seconds. 
+# Eating count = 857 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 175 th time for 1 seconds. 
+# Eating count = 858 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 169 th time for 2 seconds. 
+# Eating count = 859 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 174 th time for 2 seconds. 
+# Eating count = 860 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 169 th time for 1 seconds. 
+# Eating count = 861 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 175 th time for 2 seconds. 
+# Eating count = 862 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 175 th time for 1 seconds. 
+# Eating count = 863 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 176 th time for 1 seconds. 
+# Eating count = 864 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 2 eating at 170 th time for 2 seconds. 
+# Eating count = 865 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 170 th time for 2 seconds. 
+Philospher 1 eating at 176 th time for 2 seconds. 
+# Eating count = 866 
+Philospher 3 is Thinking for 2 seconds. 
+# Eating count = 867 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 171 th time for 1 seconds. 
+# Eating count = 868 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 176 th time for 2 seconds. 
+# Eating count = 869 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 177 th time for 1 seconds. 
+# Eating count = 870 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 4.000000 seconds. 
+Philospher 3 eating at 171 th time for 1 seconds. 
+# Eating count = 871 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 177 th time for 1 seconds. 
+# Eating count = 872 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 177 th time for 1 seconds. 
+# Eating count = 873 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 172 th time for 2 seconds. 
+# Eating count = 874 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 178 th time for 1 seconds. 
+# Eating count = 875 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 172 th time for 1 seconds. 
+# Eating count = 876 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 178 th time for 1 seconds. 
+# Eating count = 877 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 178 th time for 1 seconds. 
+# Eating count = 878 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 173 th time for 1 seconds. 
+# Eating count = 879 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 179 th time for 1 seconds. 
+# Eating count = 880 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 173 th time for 1 seconds. 
+# Eating count = 881 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 179 th time for 1 seconds. 
+# Eating count = 882 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 174 th time for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+# Eating count = 883 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 179 th time for 2 seconds. 
+# Eating count = 884 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 180 th time for 2 seconds. 
+# Eating count = 885 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 3 eating at 174 th time for 2 seconds. 
+# Eating count = 886 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 180 th time for 2 seconds. 
+# Eating count = 887 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 175 th time for 2 seconds. 
+# Eating count = 888 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 180 th time for 1 seconds. 
+# Eating count = 889 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 181 th time for 2 seconds. 
+# Eating count = 890 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 175 th time for 2 seconds. 
+# Eating count = 891 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 181 th time for 1 seconds. 
+# Eating count = 892 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 176 th time for 1 seconds. 
+# Eating count = 893 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 181 th time for 1 seconds. 
+# Eating count = 894 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 182 th time for 1 seconds. 
+# Eating count = 895 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 176 th time for 1 seconds. 
+# Eating count = 896 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 182 th time for 1 seconds. 
+# Eating count = 897 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 177 th time for 2 seconds. 
+# Eating count = 898 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 182 th time for 2 seconds. 
+# Eating count = 899 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 183 th time for 2 seconds. 
+# Eating count = 900 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 177 th time for 2 seconds. 
+# Eating count = 901 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 183 th time for 1 seconds. 
+# Eating count = 902 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 178 th time for 2 seconds. 
+# Eating count = 903 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 183 th time for 2 seconds. 
+# Eating count = 904 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 178 th time for 1 seconds. 
+# Eating count = 905 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 184 th time for 2 seconds. 
+# Eating count = 906 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 179 th time for 1 seconds. 
+# Eating count = 907 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 184 th time for 2 seconds. 
+# Eating count = 908 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 3.000000 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 184 th time for 1 seconds. 
+# Eating count = 909 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 179 th time for 2 seconds. 
+# Eating count = 910 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 185 th time for 1 seconds. 
+# Eating count = 911 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 180 th time for 1 seconds. 
+# Eating count = 912 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 185 th time for 2 seconds. 
+# Eating count = 913 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 186 th time for 1 seconds. 
+# Eating count = 914 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 185 th time for 1 seconds. 
+# Eating count = 915 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 180 th time for 2 seconds. 
+# Eating count = 916 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 186 th time for 1 seconds. 
+# Eating count = 917 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 187 th time for 2 seconds. 
+# Eating count = 918 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 181 th time for 1 seconds. 
+# Eating count = 919 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 186 th time for 2 seconds. 
+# Eating count = 920 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 181 th time for 2 seconds. 
+# Eating count = 921 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 187 th time for 2 seconds. 
+# Eating count = 922 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 188 th time for 2 seconds. 
+# Eating count = 923 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 182 th time for 1 seconds. 
+# Eating count = 924 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 182 th time for 1 seconds. 
+# Eating count = 925 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 187 th time for 2 seconds. 
+# Eating count = 926 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 183 th time for 1 seconds. 
+# Eating count = 927 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 189 th time for 1 seconds. 
+# Eating count = 928 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 188 th time for 1 seconds. 
+# Eating count = 929 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 183 th time for 1 seconds. 
+# Eating count = 930 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 188 th time for 1 seconds. 
+# Eating count = 931 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 184 th time for 2 seconds. 
+Philospher 1 eating at 190 th time for 1 seconds. 
+# Eating count = 932 
+Philospher 3 is Thinking for 1 seconds. 
+# Eating count = 933 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 189 th time for 1 seconds. 
+# Eating count = 934 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 184 th time for 2 seconds. 
+# Eating count = 935 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 189 th time for 2 seconds. 
+# Eating count = 936 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 185 th time for 2 seconds. 
+# Eating count = 937 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 191 th time for 1 seconds. 
+# Eating count = 938 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 190 th time for 1 seconds. 
+# Eating count = 939 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 185 th time for 1 seconds. 
+# Eating count = 940 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 190 th time for 1 seconds. 
+# Eating count = 941 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 186 th time for 2 seconds. 
+# Eating count = 942 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 192 th time for 1 seconds. 
+# Eating count = 943 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 186 th time for 1 seconds. 
+# Eating count = 944 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 191 th time for 2 seconds. 
+# Eating count = 945 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 193 th time for 1 seconds. 
+# Eating count = 946 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 2.000000 seconds. 
+Philospher 5 eating at 191 th time for 1 seconds. 
+# Eating count = 947 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 3 eating at 187 th time for 2 seconds. 
+# Eating count = 948 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 192 th time for 1 seconds. 
+# Eating count = 949 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 187 th time for 2 seconds. 
+# Eating count = 950 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 192 th time for 1 seconds. 
+# Eating count = 951 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 2.000000 seconds. 
+Philospher 3 eating at 188 th time for 1 seconds. 
+# Eating count = 952 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 194 th time for 1 seconds. 
+# Eating count = 953 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 188 th time for 1 seconds. 
+# Eating count = 954 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 4 eating at 193 th time for 2 seconds. 
+# Eating count = 955 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 193 th time for 1 seconds. 
+# Eating count = 956 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 189 th time for 2 seconds. 
+# Eating count = 957 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 195 th time for 2 seconds. 
+Philospher 4 eating at 194 th time for 1 seconds. 
+# Eating count = 958 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+# Eating count = 959 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 eating at 194 th time for 1 seconds. 
+# Eating count = 960 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 2 eating at 189 th time for 2 seconds. 
+# Eating count = 961 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 196 th time for 1 seconds. 
+Philospher 3 eating at 190 th time for 1 seconds. 
+# Eating count = 963 
+Philospher 5 is Hungry for 0.000000 seconds. 
+# Eating count = 962 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 5 eating at 195 th time for 1 seconds. 
+Philospher 2 eating at 190 th time for 1 seconds. 
+# Eating count = 964 
+Philospher 5 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+# Eating count = 965 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 197 th time for 2 seconds. 
+Philospher 4 eating at 195 th time for 2 seconds. 
+# Eating count = 966 
+Philospher 1 is Thinking for 2 seconds. 
+# Eating count = 967 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 5 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 191 th time for 1 seconds. 
+# Eating count = 968 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 3.000000 seconds. 
+Philospher 5 eating at 196 th time for 2 seconds. 
+# Eating count = 969 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 191 th time for 2 seconds. 
+# Eating count = 970 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 2.000000 seconds. 
+Philospher 1 eating at 198 th time for 2 seconds. 
+# Eating count = 971 
+Philospher 1 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 196 th time for 1 seconds. 
+# Eating count = 972 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 192 th time for 1 seconds. 
+# Eating count = 973 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 197 th time for 1 seconds. 
+# Eating count = 974 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 192 th time for 1 seconds. 
+# Eating count = 975 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 1 eating at 199 th time for 1 seconds. 
+# Eating count = 976 
+Philospher 1 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 eating at 197 th time for 1 seconds. 
+# Eating count = 977 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 193 th time for 1 seconds. 
+# Eating count = 978 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 198 th time for 2 seconds. 
+# Eating count = 979 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 1 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 193 th time for 2 seconds. 
+# Eating count = 980 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 1 eating at 200 th time for 1 seconds. 
+Thread of Philospher 1 is finished executing 
+Philospher 2 is Hungry for 2.000000 seconds. 
+Philospher 4 eating at 198 th time for 1 seconds. 
+# Eating count = 982 
+Philospher 4 is Thinking for 2 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 194 th time for 1 seconds. 
+# Eating count = 983 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 5 eating at 199 th time for 1 seconds. 
+# Eating count = 984 
+Philospher 5 is Thinking for 2 seconds. 
+Philospher 3 eating at 194 th time for 1 seconds. 
+# Eating count = 985 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 195 th time for 2 seconds. 
+# Eating count = 986 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 4 eating at 199 th time for 2 seconds. 
+# Eating count = 987 
+Philospher 4 is Thinking for 1 seconds. 
+Philospher 5 is Hungry for 0.000000 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 5 eating at 200 th time for 2 seconds. 
+Philospher 3 eating at 195 th time for 2 seconds. 
+# Eating count = 989 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 4 is Hungry for 1.000000 seconds. 
+Philospher 4 eating at 200 th time for 1 seconds. 
+Philospher 2 eating at 196 th time for 2 seconds. 
+# Eating count = 991 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 1.000000 seconds. 
+Philospher 3 eating at 196 th time for 2 seconds. 
+# Eating count = 992 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 197 th time for 1 seconds. 
+# Eating count = 993 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 197 th time for 2 seconds. 
+# Eating count = 994 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 198 th time for 1 seconds. 
+# Eating count = 995 
+Philospher 2 is Thinking for 2 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 198 th time for 2 seconds. 
+# Eating count = 996 
+Philospher 3 is Thinking for 2 seconds. 
+Philospher 2 is Hungry for 1.000000 seconds. 
+Philospher 2 eating at 199 th time for 1 seconds. 
+# Eating count = 997 
+Philospher 2 is Thinking for 1 seconds. 
+Philospher 2 is Hungry for 0.000000 seconds. 
+Philospher 2 eating at 200 th time for 2 seconds. 
+Philospher 3 is Hungry for 2.000000 seconds. 
+Thread of Philospher 2 is finished executing 
+Philospher 3 eating at 199 th time for 1 seconds. 
+# Eating count = 999 
+Philospher 3 is Thinking for 1 seconds. 
+Philospher 3 is Hungry for 0.000000 seconds. 
+Philospher 3 eating at 200 th time for 1 seconds. 
+Thread of Philospher 3 is finished executing 
+Thread of Philospher 4 is finished executing 
+Thread of Philospher 5 is finished executing 
+The Hungry Time averages of Philosphers are : 
+ PHILOSPHER 1 ------------- 0.840000 
+ PHILOSPHER 2 ------------- 0.950000 
+ PHILOSPHER 3 ------------- 0.980000 
+ PHILOSPHER 4 ------------- 0.915000 
+ PHILOSPHER 5 ------------- 0.840000 
